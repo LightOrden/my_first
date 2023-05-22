@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(25,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(31,40): warning C4311: '<function-style-cast>': pointer truncation from 'int *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(31,40): warning C4302: '<function-style-cast>': truncation from 'int *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(32,49): warning C4311: '<function-style-cast>': pointer truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(32,49): warning C4302: '<function-style-cast>': truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(33,49): warning C4311: '<function-style-cast>': pointer truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(33,49): warning C4302: '<function-style-cast>': truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(34,49): warning C4311: '<function-style-cast>': pointer truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(34,49): warning C4302: '<function-style-cast>': truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(35,49): warning C4311: '<function-style-cast>': pointer truncation from 'unsigned char *' to 'int'
+C:\Users\A\source\repos\01.05_1\1.05_3\Source.cpp(35,49): warning C4302: '<function-style-cast>': truncation from 'unsigned char *' to 'int'
+  1.05_3.vcxproj -> C:\Users\A\source\repos\01.05_1\x64\Debug\1.05_3.exe
